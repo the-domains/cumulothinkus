@@ -1,0 +1,23 @@
+name: Cumulothinkus
+favicon: null
+layout_spectrum: 0.35733403265476227
+typography_spectrum: 0.41066149971447885
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.27832930628210306
+  lightness: 0.40247917198576033
+  saturation: 0.6673239066731185
+  rhythmicContrast: 0.06722885929048061
+purpose: []
